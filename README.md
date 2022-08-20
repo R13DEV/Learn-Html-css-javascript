@@ -1,2 +1,1 @@
-# Learn-Html-css-javascript
-basic html css and java template for beginners
+This is a simple template for beginners including html css and java script
