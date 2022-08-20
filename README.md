@@ -1,4 +1,4 @@
-This is a simple template for beginners including html css and java script
+This is a simple and basic template for beginners including html and css
 ==========================================================================
 you can find the main page or the index in the web pages
 =========================================================================
